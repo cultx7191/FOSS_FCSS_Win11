@@ -10,6 +10,7 @@
 
 <ins>Browser</ins>
 - LibreWolf - https://librewolf.net/
+- Tor Browser - https://www.torproject.org/
 
 <ins>Customization</ins>
 - Lively Wallpaper - https://www.rocksdanister.com/lively/
@@ -19,11 +20,8 @@
 <ins>Clipboard Manager</ins>
 - CopyQ - https://hluk.github.io/CopyQ/
 
-<ins>Cloud Service</ins>
-- Nextcloud - https://nextcloud.com
-
 <ins>Disk Space Analyzer</ins>
-- SquirrelDisk - https://www.squirreldisk.com
+- Filelight - https://apps.kde.org/filelight/
 
 <ins>Document Viewer</ins>
 - Okular - https://okular.kde.org 
@@ -36,7 +34,6 @@
 
 <ins>File Encryption</ins>
 - Picocrypt - https://github.com/HACKERALERT/Picocrypt 
-- VeraCrypt - https://veracrypt.fr/en/Home.html 
 
 <ins>File Manager</ins>
 - Dolphin - https://apps.kde.org/dolphin/
@@ -58,14 +55,10 @@
 - Krita - https://krita.org/en/ 
 
 <ins>Image Viewer</ins>
-- ImageGlass - https://imageglass.org 
 - qView - https://interversehq.com/qview/
 
-<ins>Input Mapper</ins>
-- DS4Windows - https://ds4-windows.com 
-
-<ins>Media Streaming</ins>
-- Stremio - https://www.stremio.com/ 
+<ins>Mobile Remote Control Tool</ins>
+- KDE Connect - https://kdeconnect.kde.org/
 
 <ins>Modeling</ins>
 - Blender - https://www.blender.org 
@@ -79,19 +72,15 @@
 <ins>Office Suite</ins>
 - LibreOffice - https://www.libreoffice.org 
 
-<ins>Optimization</ins>
-- BloatyNosy - https://github.com/builtbybel/BloatyNosy 
-- Optimizer - https://github.com/hellzerg/optimizer 
-- SophiApp - https://github.com/Sophia-Community/SophiApp 
+<ins>Online Streaming</ins>
+- Stremio - https://www.stremio.com/ 
 
-<ins>Package Manager UI</ins>
-- WingetUI - https://www.marticliment.com/wingetui/ 
+<ins>Optimization</ins>
+- Optimizer - https://github.com/hellzerg/optimizer 
+- SophiApp - https://github.com/Sophia-Community/SophiApp
 
 <ins>Password Manager</ins>
 - Bitwarden - https://bitwarden.com 
-
-<ins>PDF Arranger</ins>
-- PDF Arranger - https://github.com/pdfarranger/pdfarranger
 
 <ins>Post-processing Injector</ins>
 - ReShade - https://reshade.me
@@ -103,27 +92,27 @@
 <ins>Screenshot Capture</ins>
 - ShareX - https://getsharex.com 
 
+<ins>Service/Workspace Manager</ins>
+- Ferdium - https://ferdium.org/
+
 <ins>System Cleaner</ins>
 - Czkawka - https://github.com/qarmin/czkawka 
 
 <ins>System Information</ins>
 - Fastfetch - https://github.com/LinusDierheimer/fastfetch
 
-<ins>Task Automator/Text Expander</ins>
-- AutoHotkey - https://www.autohotkey.com 
-
 <ins>Text Editor</ins>
 - Kate - https://kate-editor.org/
 
+<ins>Text Expander</ins>
+- Espanso - https://espanso.org/
+
 <ins>Torrent Client</ins>
 - qBittorrent - https://www.qbittorrent.org 
+- WebTorrent - https://webtorrent.io/
 
 <ins>Uninstaller</ins>
 - BCUninstaller - https://www.bcuninstaller.com 
-
-<ins>Utilities</ins>
-- CapsLockIndicator - https://cli.jonaskohl.de
-- SmartSystemMenu - https://github.com/AlexanderPro/SmartSystemMenu 
 
 <ins>Video, Audio, Image Converter</ins>
 - Shutter Encoder - https://www.shutterencoder.com/en/ 
@@ -159,16 +148,10 @@
 
 <ins>Game Library</ins>
 - Steam - https://store.steampowered.com/
-
-<ins>Image Editor</ins>
-- Paint.NET - https://www.getpaint.net  
-
+  
 <ins>Instant Messengers</ins>
 - Discord - https://discord.com
 - WhatsApp - https://www.whatsapp.com/
-
-<ins>Modding Repository</ins>
-- CurseForge - https://www.curseforge.com/
 
 <ins>Music Streaming</ins>
 - Spotify - https://open.spotify.com 
