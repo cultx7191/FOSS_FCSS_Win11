@@ -9,7 +9,8 @@
 - Audacious - https://audacious-media-player.org
 
 <ins>Browser</ins>
-- LibreWolf - https://librewolf.net/
+- Brave - https://brave.com/ [When needing chromium]
+- LibreWolf - https://librewolf.net/ [FireFox]
 - Tor Browser - https://www.torproject.org/
 
 <ins>Customization</ins>
@@ -37,6 +38,7 @@
 
 <ins>File Manager</ins>
 - Dolphin - https://apps.kde.org/dolphin/
+- Spacedrive - https://www.spacedrive.com/ [Not ready yet]
 
 <ins>File Synchronization</ins>
 - Syncthing Tray - https://github.com/Martchus/syncthingtray
@@ -134,9 +136,6 @@
 - ProtonVPN - https://protonvpn.com/free-vpn/ 
 
 ## FCSS - Free Closed Source Software
-<ins>Antivirus</ins>
-- Kaspersky - https://usa.kaspersky.com/free-antivirus
-
 <ins>File Manager </ins>
 - Directory Opus - https://www.gpsoft.com.au/
 
@@ -151,7 +150,6 @@
   
 <ins>Instant Messengers</ins>
 - Discord - https://discord.com
-- WhatsApp - https://www.whatsapp.com/
 
 <ins>Music Streaming</ins>
 - Spotify - https://open.spotify.com 
