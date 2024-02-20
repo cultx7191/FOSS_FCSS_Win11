@@ -11,7 +11,6 @@
 <ins>Browser</ins>
 - Brave - https://brave.com/ [When needing chromium]
 - LibreWolf - https://librewolf.net/ [FireFox]
-- Tor Browser - https://www.torproject.org/
 
 <ins>Customization</ins>
 - Lively Wallpaper - https://www.rocksdanister.com/lively/
@@ -65,9 +64,6 @@
 <ins>Modeling</ins>
 - Blender - https://www.blender.org 
 
-<ins>Modding Repository</ins>
-- Modrinth - https://modrinth.com/
-
 <ins>Note-taking</ins>
 - Joplin - https://joplinapp.org 
 
@@ -102,6 +98,9 @@
 
 <ins>System Information</ins>
 - Fastfetch - https://github.com/LinusDierheimer/fastfetch
+
+<ins>Task Management</ins>
+- Anytype - https://github.com/anyproto/anytype-ts
 
 <ins>Text Editor</ins>
 - Kate - https://kate-editor.org/
