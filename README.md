@@ -2,18 +2,21 @@
 
 FOSS - Free Open Source Software  
   
-App Launcher  
+2F Authenticator  
+\-Ente Auth=[https://github.com/ente-io/ente](<https://github.com/ente-io/ente>)  
+  
+Application Launcher  
 \-Flow Launcher=[https://www.flowlauncher.com](<https://www.flowlauncher.com>)  
   
-Application Firewall  
+Application Firewall/DNS Resolver  
 \-Portmaster=[https://safing.io/](<https://safing.io/>)
 
 Audio Player  
-\-Audacious - [https://audacious-media-player.org](<https://audacious-media-player.org>)
+\-Audacious=[https://audacious-media-player.org](<https://audacious-media-player.org>)
 
 Browser  
-\-Brave - [https://brave.com/](<https://brave.com/>) [When needing chromium]  
-\-LibreWolf - [https://librewolf.net/](<https://librewolf.net/>) [FireFox]
+\-Brave=[https://brave.com/](<https://brave.com/>) [When needing chromium]  
+\-LibreWolf=[https://librewolf.net/](<https://librewolf.net/>) [FireFox]
 
 Customization  
 \-Lively Wallpaper=[https://www.rocksdanister.com/lively/](<https://www.rocksdanister.com/lively/>)  
@@ -22,6 +25,9 @@ Customization
 
 Clipboard Manager  
 \-CopyQ=[https://hluk.github.io/CopyQ/](<https://hluk.github.io/CopyQ/>)  
+  
+Cloud Service  
+\-Nextcloud=[https://nextcloud.com/](<https://nextcloud.com/>)  
   
 Disk Space Analyzer  
 \-Filelight=[https://apps.kde.org/filelight/](<https://apps.kde.org/filelight/>)
@@ -40,10 +46,12 @@ File Encryption
 
 File Manager  
 \-Dolphin=[https://apps.kde.org/dolphin/](<https://apps.kde.org/dolphin/>)  
-\-Spacedrive=[https://www.spacedrive.com/](<https://www.spacedrive.com/>) [Not ready yet]
+\-Spacedrive=[https://www.spacedrive.com/](<https://www.spacedrive.com/>) [Not ready yet]  
+  
+File Storage  
+\-Filen=[https://filen.io/](<https://filen.io/>)
 
-File Synchronization
-
+File Synchronization  
 \-Syncthing Tray=[https://github.com/Martchus/syncthingtray](<https://github.com/Martchus/syncthingtray>)
 
 File Transfer  
@@ -84,6 +92,9 @@ Optimization
 Password Manager  
 \-Bitwarden=[https://bitwarden.com](<https://bitwarden.com>)
 
+Photo/Video Cloud Service  
+\-Ente Photos=[https://ente.io/](<https://ente.io/>)  
+  
 Post-processing Injector  
 \-ReShade=[https://reshade.me](<https://reshade.me>)
 
@@ -96,7 +107,10 @@ Screenshot Capture
 \-ShareX=[https://getsharex.com/](<https://getsharex.com/>)
 
 Service/Workspace Manager  
-\-Ferdium=[https://ferdium.org/](<https://ferdium.org/>)
+\-Ferdium=[https://ferdium.org/](<https://ferdium.org/>)  
+  
+Spotify Client  
+\-Spotube=[https://spotube.krtirtho.dev/](<https://spotube.krtirtho.dev/>)
 
 System Cleaner  
 \-Czkawka=[https://github.com/qarmin/czkawka](<https://github.com/qarmin/czkawka>)
@@ -105,7 +119,10 @@ System Information
 \-Fastfetch=[https://github.com/LinusDierheimer/fastfetch](<https://github.com/LinusDierheimer/fastfetch>)
 
 Task Management  
-\-Anytype=[https://github.com/anyproto/anytype-ts](<https://github.com/anyproto/anytype-ts>)
+\-Anytype=[https://github.com/anyproto/anytype-ts](<https://github.com/anyproto/anytype-ts>)  
+  
+Tablature Editor and Player  
+\-TuxGuitar=[https://sourceforge.net/projects/tuxguitar/](<https://sourceforge.net/projects/tuxguitar/>)
 
 Text Editor  
 \-Kate=[https://kate-editor.org/](<https://kate-editor.org/>)
@@ -118,7 +135,10 @@ Torrent Client
 \-WebTorrent=[https://webtorrent.io/ [Needs more research]](<https://webtorrent.io/>)
 
 Uninstaller  
-\-BCUninstaller=[https://www.bcuninstaller.com](<https://www.bcuninstaller.com>)
+\-BCUninstaller=[https://www.bcuninstaller.com](<https://www.bcuninstaller.com>)  
+  
+Unit Converter  
+\-Converter NOW=[https://converter-now.web.app/](<https://converter-now.web.app/>)
 
 Video, Audio, Image Converter  
 \-Shutter Encoder=[https://www.shutterencoder.com/en/](<https://www.shutterencoder.com/en/>)
@@ -137,8 +157,7 @@ Video Transcoder
 \-HandBrake=[https://handbrake.fr](<https://handbrake.fr>)
 
 VPN Client  
-\-ProtonVPN=[https://protonvpn.com/free-vpn/](<https://protonvpn.com/free-vpn/>)  
-
+\-ProtonVPN=[https://protonvpn.com/free-vpn/](<https://protonvpn.com/free-vpn/>)
 
 FCSS - Free Closed Source Software
 
