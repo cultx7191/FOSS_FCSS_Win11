@@ -5,162 +5,165 @@ FOSS - Free Open Source Software
 2F Authenticator  
 \-Ente Auth=[https://github.com/ente-io/ente](<https://github.com/ente-io/ente>)  
   
+Application Firewall/DNS Resolver  
+\-Portmaster=[https://safing.io/](<https://safing.io/>)  
+  
 Application Launcher  
 \-Flow Launcher=[https://www.flowlauncher.com](<https://www.flowlauncher.com>)  
   
-Application Firewall/DNS Resolver  
-\-Portmaster=[https://safing.io/](<https://safing.io/>)
-
 Audio Player  
-\-Audacious=[https://audacious-media-player.org](<https://audacious-media-player.org>)
-
+\-Audacious=[https://audacious-media-player.org](<https://audacious-media-player.org>)  
+  
 Browser  
 \-Brave=[https://brave.com/](<https://brave.com/>) [When needing chromium]  
-\-LibreWolf=[https://librewolf.net/](<https://librewolf.net/>) [FireFox]
-
-Customization  
-\-Lively Wallpaper=[https://www.rocksdanister.com/lively/](<https://www.rocksdanister.com/lively/>)  
-\-TranslucentTB=[https://github.com/TranslucentTB/TranslucentTB](<https://github.com/TranslucentTB/TranslucentTB>)  
-\-WinPaletter=[https://github.com/Abdelrhman-AK/WinPaletter](<https://github.com/Abdelrhman-AK/WinPaletter>)
-
+\-LibreWolf=[https://librewolf.net/](<https://librewolf.net/>) [FireFox]  
+  
 Clipboard Manager  
 \-CopyQ=[https://hluk.github.io/CopyQ/](<https://hluk.github.io/CopyQ/>)  
   
 Cloud Service  
 \-Nextcloud=[https://nextcloud.com/](<https://nextcloud.com/>)  
   
+Customization  
+\-Lively Wallpaper=[https://www.rocksdanister.com/lively/](<https://www.rocksdanister.com/lively/>)  
+\-TranslucentTB=[https://github.com/TranslucentTB/TranslucentTB](<https://github.com/TranslucentTB/TranslucentTB>)  
+\-WinPaletter=[https://github.com/Abdelrhman-AK/WinPaletter](<https://github.com/Abdelrhman-AK/WinPaletter>)  
+  
 Disk Space Analyzer  
-\-Filelight=[https://apps.kde.org/filelight/](<https://apps.kde.org/filelight/>)
-
+\-Filelight=[https://apps.kde.org/filelight/](<https://apps.kde.org/filelight/>)  
+  
 Document Viewer  
-\-Okular=[https://okular.kde.org](<https://okular.kde.org>)
-
+\-Okular=[https://okular.kde.org](<https://okular.kde.org>)  
+  
 Email/Calendar Client  
-\-Thunderbird=[https://www.thunderbird.net/en-US/](<https://www.thunderbird.net/en-US/>)
-
+\-Thunderbird=[https://www.thunderbird.net/en-US/](<https://www.thunderbird.net/en-US/>)  
+  
 File Archiver  
-\-7-Zip=[https://www.7-zip.org](<https://www.7-zip.org>)
-
+\-7-Zip=[https://www.7-zip.org](<https://www.7-zip.org>)  
+  
 File Encryption  
-\-Picocrypt=[https://github.com/HACKERALERT/Picocrypt](<https://github.com/HACKERALERT/Picocrypt>)
-
+\-Picocrypt=[https://github.com/HACKERALERT/Picocrypt](<https://github.com/HACKERALERT/Picocrypt>)  
+  
 File Manager  
 \-Dolphin=[https://apps.kde.org/dolphin/](<https://apps.kde.org/dolphin/>)  
 \-Spacedrive=[https://www.spacedrive.com/](<https://www.spacedrive.com/>) [Not ready yet]  
   
 File Storage  
-\-Filen=[https://filen.io/](<https://filen.io/>)
-
+\-Filen=[https://filen.io/](<https://filen.io/>)  
+  
 File Synchronization  
-\-Syncthing Tray=[https://github.com/Martchus/syncthingtray](<https://github.com/Martchus/syncthingtray>)
-
+\-Syncthing Tray=[https://github.com/Martchus/syncthingtray](<https://github.com/Martchus/syncthingtray>)  
+  
 File Transfer  
 \-LocalSend=[https://localsend.org/#/](<https://localsend.org/#/>)  
-\-Sharrr=[https://www.sharrr.com](<https://www.sharrr.com>)
-
+\-Sharrr=[https://www.sharrr.com](<https://www.sharrr.com>)  
+  
 Flashcard Learning  
-\-Anki=[https://apps.ankiweb.net/](<https://apps.ankiweb.net/>)
-
+\-Anki=[https://apps.ankiweb.net/](<https://apps.ankiweb.net/>)  
+  
 Image AI Upscaling  
-\-Upscayl=[https://www.upscayl.org](<https://www.upscayl.org>)
-
+\-Upscayl=[https://www.upscayl.org](<https://www.upscayl.org>)  
+  
 Image Editor  
-\-Krita=[https://krita.org/en/](<https://krita.org/en/>)
-
+\-Krita=[https://krita.org/en/](<https://krita.org/en/>)  
+  
 Image Viewer  
-\-qView=[https://interversehq.com/qview/](<https://interversehq.com/qview/>)
-
+\-qView=[https://interversehq.com/qview/](<https://interversehq.com/qview/>)  
+  
 Mobile Remote Control Tool  
-\-KDE Connect=[https://kdeconnect.kde.org/](<https://kdeconnect.kde.org/>)
-
+\-KDE Connect=[https://kdeconnect.kde.org/](<https://kdeconnect.kde.org/>)  
+  
+Modding Repository [MC]  
+\-Modrinth=[https://modrinth.com/](<https://modrinth.com/>)  
+  
 Modeling  
-\-Blender=[https://www.blender.org](<https://www.blender.org>)
-
+\-Blender=[https://www.blender.org](<https://www.blender.org>)  
+  
 Note-taking  
-\-Notesnook=[https://notesnook.com/](<https://notesnook.com/>)
-
+\-Notesnook=[https://notesnook.com/](<https://notesnook.com/>)  
+  
 Office Suite  
-\-LibreOffice=[https://www.libreoffice.org](<https://www.libreoffice.org>)
-
+\-LibreOffice=[https://www.libreoffice.org](<https://www.libreoffice.org>)  
+  
 Online Streaming  
-\-Stremio=[https://www.stremio.com/](<https://www.stremio.com/>)
-
+\-Stremio=[https://www.stremio.com/](<https://www.stremio.com/>)  
+  
 Optimization  
 \-Optimizer=[https://github.com/hellzerg/optimizer](<https://github.com/hellzerg/optimizer>)  
-\-SophiApp=[https://github.com/Sophia-Community/SophiApp](<https://github.com/Sophia-Community/SophiApp>)
-
+\-SophiApp=[https://github.com/Sophia-Community/SophiApp](<https://github.com/Sophia-Community/SophiApp>)  
+  
 Password Manager  
-\-Bitwarden=[https://bitwarden.com](<https://bitwarden.com>)
-
+\-Bitwarden=[https://bitwarden.com](<https://bitwarden.com>)  
+  
 Photo/Video Cloud Service  
 \-Ente Photos=[https://ente.io/](<https://ente.io/>)  
   
 Post-processing Injector  
-\-ReShade=[https://reshade.me](<https://reshade.me>)
-
+\-ReShade=[https://reshade.me](<https://reshade.me>)  
+  
 Reading  
 \-Calibre=[https://calibre-ebook.com/download](<https://calibre-ebook.com/download>)  
-\-YACReader=[https://www.yacreader.com/](<https://www.yacreader.com/>)
-
+\-YACReader=[https://www.yacreader.com/](<https://www.yacreader.com/>)  
+  
 Screenshot Capture  
 \-Flameshot=[https://flameshot.org/ [Not ready yet]](<https://flameshot.org/>)  
-\-ShareX=[https://getsharex.com/](<https://getsharex.com/>)
-
+\-ShareX=[https://getsharex.com/](<https://getsharex.com/>)  
+  
 Service/Workspace Manager  
 \-Ferdium=[https://ferdium.org/](<https://ferdium.org/>)  
   
 Spotify Client  
-\-Spotube=[https://spotube.krtirtho.dev/](<https://spotube.krtirtho.dev/>)
-
+\-Spotube=[https://spotube.krtirtho.dev/](<https://spotube.krtirtho.dev/>)  
+  
 System Cleaner  
-\-Czkawka=[https://github.com/qarmin/czkawka](<https://github.com/qarmin/czkawka>)
-
+\-Czkawka=[https://github.com/qarmin/czkawka](<https://github.com/qarmin/czkawka>)  
+  
 System Information  
-\-Fastfetch=[https://github.com/LinusDierheimer/fastfetch](<https://github.com/LinusDierheimer/fastfetch>)
-
+\-Fastfetch=[https://github.com/LinusDierheimer/fastfetch](<https://github.com/LinusDierheimer/fastfetch>)  
+  
+Tablature Editor and Player  
+\-TuxGuitar=[https://sourceforge.net/projects/tuxguitar/](<https://sourceforge.net/projects/tuxguitar/>)  
+  
 Task Management  
 \-Anytype=[https://github.com/anyproto/anytype-ts](<https://github.com/anyproto/anytype-ts>)  
   
-Tablature Editor and Player  
-\-TuxGuitar=[https://sourceforge.net/projects/tuxguitar/](<https://sourceforge.net/projects/tuxguitar/>)
-
 Text Editor  
-\-Kate=[https://kate-editor.org/](<https://kate-editor.org/>)
-
+\-Kate=[https://kate-editor.org/](<https://kate-editor.org/>)  
+  
 Text Expander  
-\-Espanso=[https://espanso.org/](<https://espanso.org/>)
-
+\-Espanso=[https://espanso.org/](<https://espanso.org/>)  
+  
 Torrent Client  
 \-qBittorrent=[https://www.qbittorrent.org](<https://www.qbittorrent.org>)  
-\-WebTorrent=[https://webtorrent.io/ [Needs more research]](<https://webtorrent.io/>)
-
+\-WebTorrent=[https://webtorrent.io/ [Needs more research]](<https://webtorrent.io/>)  
+  
 Uninstaller  
 \-BCUninstaller=[https://www.bcuninstaller.com](<https://www.bcuninstaller.com>)  
   
 Unit Converter  
-\-Converter NOW=[https://converter-now.web.app/](<https://converter-now.web.app/>)
-
-Video, Audio, Image Converter  
-\-Shutter Encoder=[https://www.shutterencoder.com/en/](<https://www.shutterencoder.com/en/>)
-
+\-Converter NOW=[https://converter-now.web.app/](<https://converter-now.web.app/>)  
+  
 Video Editing  
 \-Kdenlive=[https://kdenlive.org/en/](<https://kdenlive.org/en/>)  
-\-LosslessCut=[https://mifi.no/losslesscut/](<https://mifi.no/losslesscut/>)
-
+\-LosslessCut=[https://mifi.no/losslesscut/](<https://mifi.no/losslesscut/>)  
+  
 Video Player  
-\-QMPlay2=[https://github.com/zaps166/QMPlay2](<https://github.com/zaps166/QMPlay2>)
-
+\-QMPlay2=[https://github.com/zaps166/QMPlay2](<https://github.com/zaps166/QMPlay2>)  
+  
 Video Recording  
-\-OBS Studio=[https://obsproject.com](<https://obsproject.com>)
-
+\-OBS Studio=[https://obsproject.com](<https://obsproject.com>)  
+  
 Video Transcoder  
-\-HandBrake=[https://handbrake.fr](<https://handbrake.fr>)
-
+\-HandBrake=[https://handbrake.fr](<https://handbrake.fr>)  
+  
+Video, Audio, Image Converter  
+\-Shutter Encoder=[https://www.shutterencoder.com/en/](<https://www.shutterencoder.com/en/>)  
+  
 VPN Client  
-\-ProtonVPN=[https://protonvpn.com/free-vpn/](<https://protonvpn.com/free-vpn/>)
-
-FCSS - Free Closed Source Software
-
+\-ProtonVPN=[https://protonvpn.com/free-vpn/](<https://protonvpn.com/free-vpn/>)  
+  
+FCSS - Free Closed Source Software  
+  
 File Manager  
 \-Directory Opus=[https://www.gpsoft.com.au/ [until Spacedrive release]](<https://www.gpsoft.com.au/>)
 
@@ -178,8 +181,13 @@ Instant Messengers
 \-WhatsApp=[https://www.whatsapp.com/](<https://www.whatsapp.com/>)
 
 Music Streaming  
-\-Spotify=[https://open.spotify.com](<https://open.spotify.com>)
+\-Spotify=[https://open.spotify.com](<https://open.spotify.com>)  
+  
+Navigation  
+\-Google Maps=[https://www.google.com/maps](<https://www.google.com/maps>)
 
 Reverse Engineering  
-\-HxD Hex Editor=[https://mh-nexus.de/en/hxd](<https://mh-nexus.de/en/hxd>)
+\-HxD Hex Editor=[https://mh-nexus.de/en/hxd](<https://mh-nexus.de/en/hxd>)  
+  
+
 
