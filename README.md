@@ -1,4 +1,4 @@
-# FOSS_FCSS_Win11\Tech
+# FOSS_FCSS_Win11
 
 \|FOSS - Free Open Source Software\|  
   
