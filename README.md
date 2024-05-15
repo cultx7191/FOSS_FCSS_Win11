@@ -6,9 +6,6 @@ AI
 \-GPT4AII=[https://gpt4all.io](<https://gpt4all.io>)  
 \-Upscayl=[https://www.upscayl.org](<https://www.upscayl.org>)  
   
-Android Remote Tool  
-\-KDE Connect=[https://kdeconnect.kde.org/](<https://kdeconnect.kde.org/>)  
-  
 Cloud Services  
 \-Ente Photos=[https://ente.io/](<https://ente.io/>)  
 \-Filen=[https://filen.io/](<https://filen.io/>)  
@@ -16,6 +13,7 @@ Cloud Services
   
 Convenience  
 \-CopyQ=[https://hluk.github.io/CopyQ/](<https://hluk.github.io/CopyQ/>)  
+\-Crow Translate=[https://crow-translate.github.io/](<https://crow-translate.github.io/>)  
 \-Espanso=[https://espanso.org/](<https://espanso.org/>)  
   
 Customization  
@@ -30,29 +28,23 @@ Documents
 Email/Calendar Client  
 \-Thunderbird=[https://www.thunderbird.net/en-US/](<https://www.thunderbird.net/en-US/>)  
   
-File Archiving/Encryption/Sync  
+File Archiving/Transfer/Encryption/Sync  
 \-7-Zip=[https://www.7-zip.org](<https://www.7-zip.org>)  
+\-LocalSend=[https://localsend.org/#/](<https://localsend.org/#/>)  
 \-Picocrypt=[https://github.com/HACKERALERT/Picocrypt](<https://github.com/HACKERALERT/Picocrypt>)  
 \-Syncthing Tray=[https://github.com/Martchus/syncthingtray](<https://github.com/Martchus/syncthingtray>)  
   
 File Manager  
 \-Spacedrive=[https://www.spacedrive.com/](<https://www.spacedrive.com/>) [Not ready yet]  
   
-File Transfer  
-\-LocalSend=[https://localsend.org/#/](<https://localsend.org/#/>)  
-\-Sharrr=[https://www.sharrr.com](<https://www.sharrr.com>)  
-  
 Guitar  
 \-MuseScore=[https://musescore.com/](<https://musescore.com/>)  
 \-TuxGuitar=[https://sourceforge.net/projects/tuxguitar/](<https://sourceforge.net/projects/tuxguitar/>)  
   
 Internet browsing/Workspace Manager  
-\-Ferdium=[https://ferdium.org/](<https://ferdium.org/>)  
 \-LibreWolf=[https://librewolf.net/](<https://librewolf.net/>)  
 \-ungoogled Chromium=[https://ungoogled-software.github.io/ungoogled-chromium-binaries/](<https://ungoogled-software.github.io/ungoogled-chromium-binaries/>)  
-  
-Note-taking/Writing  
-\-Notesnook=[https://notesnook.com/](<https://notesnook.com/>)  
+\-Ferdium=[https://ferdium.org/](<https://ferdium.org/>)  
   
 Optimization  
 \-Optimizer=[https://github.com/hellzerg/optimizer](<https://github.com/hellzerg/optimizer>)  
@@ -64,50 +56,50 @@ Privacy/Security
 \-Portmaster=[https://safing.io/](<https://safing.io/>)  
 \-ProtonVPN=[https://protonvpn.com/free-vpn/](<https://protonvpn.com/free-vpn/>)  
   
-Reading  
+Reading/Streaming  
 \-Anki=[https://apps.ankiweb.net/](<https://apps.ankiweb.net/>)  
 \-Calibre=[https://calibre-ebook.com/download](<https://calibre-ebook.com/download>)  
-\-YACReader=[https://www.yacreader.com/](<https://www.yacreader.com/>)  
-  
-Recording/Capture  
-\-Flameshot=[https://flameshot.org/](<https://flameshot.org/>) [Not ready yet]  
-\-OBS Studio=[https://obsproject.com](<https://obsproject.com>)  
-\-ShareX=[https://getsharex.com/](<https://getsharex.com/>)  
-  
-Streaming  
+\-Miru=[https://miru.js.org/en/](<https://miru.js.org/en/>)  
 \-Spotube=[https://spotube.krtirtho.dev/](<https://spotube.krtirtho.dev/>)  
 \-Stremio=[https://www.stremio.com/](<https://www.stremio.com/>)  
+  
+Recording/Capture  
+\-Flameshot=[https://flameshot.org/](<https://flameshot.org/>)  
+\-OBS Studio=[https://obsproject.com](<https://obsproject.com>)  
+  
+Reverse Engineering  
+\-ReHex=[https://rehex.solemnwarning.net/](<https://rehex.solemnwarning.net/>)  
   
 System  
 \-BCUninstaller=[https://www.bcuninstaller.com](<https://www.bcuninstaller.com>)  
 \-Czkawka=[https://github.com/qarmin/czkawka](<https://github.com/qarmin/czkawka>)  
 \-Fastfetch=[https://github.com/LinusDierheimer/fastfetch](<https://github.com/LinusDierheimer/fastfetch>)  
   
-Task Management  
+Task Management/Note-taking  
 \-Anytype=[https://github.com/anyproto/anytype-ts](<https://github.com/anyproto/anytype-ts>)  
+\-Notesnook=[https://notesnook.com/](<https://notesnook.com/>)  
   
 Text/Code Editing  
 \-Kate=[https://kate-editor.org/](<https://kate-editor.org/>)  
   
 Tools  
-\-Converter NOW=[https://converter-now.web.app/](<https://converter-now.web.app/>)  
 \-Flow Launcher=[https://www.flowlauncher.com](<https://www.flowlauncher.com>)  
 \-SquirrelDisk=[https://www.squirreldisk.com/](<https://www.squirreldisk.com/>)  
-\-Qalculate=[https://github.com/Qalculate](<https://github.com/Qalculate>)  
   
 Torrenting  
 \-qBittorrent=[https://www.qbittorrent.org](<https://www.qbittorrent.org>)  
-\-WebTorrent=[https://webtorrent.io/](<https://webtorrent.io/>) [Needs more research]  
+\-WebTorrent=[https://webtorrent.io/](<https://webtorrent.io/>)  
   
 VG/Modding  
 \-Blender=[https://www.blender.org](<https://www.blender.org>)  
 \-Modrinth=[https://modrinth.com/](<https://modrinth.com/>)  
 \-Playnite=[https://playnite.link/](<https://playnite.link/>)  
 \-ReShade=[https://reshade.me](<https://reshade.me>)  
+\-UE Explorer=[https://eliotvu.com/portfolio/view/21/ue-explorer](<https://eliotvu.com/portfolio/view/21/ue-explorer>)  
   
 Video, Audio, Image Viewing  
 \-Audacious=[https://audacious-media-player.org](<https://audacious-media-player.org>)  
-\-QMPlay2=[https://github.com/zaps166/QMPlay2](<https://github.com/zaps166/QMPlay2>)  
+\-mpv.net=[https://github.com/mpvnet-player/mpv.net](<https://github.com/mpvnet-player/mpv.net>)  
 \-qView=[https://interversehq.com/qview/](<https://interversehq.com/qview/>)  
   
 Video, Audio, Image Editing  
@@ -115,7 +107,6 @@ Video, Audio, Image Editing
 \-Kdenlive=[https://kdenlive.org/en/](<https://kdenlive.org/en/>)  
 \-Krita=[https://krita.org/en/](<https://krita.org/en/>)  
 \-LosslessCut=[https://mifi.no/losslesscut/](<https://mifi.no/losslesscut/>)  
-\-Shutter Encoder=[https://www.shutterencoder.com/en/](<https://www.shutterencoder.com/en/>)  
   
 \|FCSS - Free Closed Source Software\|  
   
@@ -129,11 +120,13 @@ VG Library/Storefront
 \-Steam=[https://store.steampowered.com/](<https://store.steampowered.com/>)
 
 Instant Messengers  
-\-Discord=[https://discord.com](<https://discord.com>)  
-\-WhatsApp=[https://www.whatsapp.com/](<https://www.whatsapp.com/>)
+\-Discord=[https://discord.com](<https://discord.com>)
 
 Streaming  
 \-Spotify=[https://open.spotify.com](<https://open.spotify.com>)  
+  
+Reverse Engineering  
+\-HxD=[https://mh-nexus.de/en/hxd/](<https://mh-nexus.de/en/hxd/>)  
   
 
 
