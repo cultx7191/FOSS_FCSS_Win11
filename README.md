@@ -1,4 +1,4 @@
-# FOSS_FCSS_Win11
+# FOSS_FCSS_Win11/Tech
 
 \|FOSS - Free Open Source Software\|  
   
@@ -39,7 +39,7 @@ File Manager
   
 Guitar  
 \-MuseScore=[https://musescore.com/](<https://musescore.com/>)  
-\-TuxGuitar=[https://sourceforge.net/projects/tuxguitar/](<https://sourceforge.net/projects/tuxguitar/>)  
+\-TuxGuitar=[https://github.com/helge17/tuxguitar](<https://github.com/helge17/tuxguitar>)  
   
 Internet browsing/Workspace Manager  
 \-LibreWolf=[https://librewolf.net/](<https://librewolf.net/>)  
@@ -58,13 +58,13 @@ Privacy/Security
   
 Reading/Streaming  
 \-Anki=[https://apps.ankiweb.net/](<https://apps.ankiweb.net/>)  
-\-Calibre=[https://calibre-ebook.com/download](<https://calibre-ebook.com/download>)  
+\-Librum=[https://librumreader.com/](<https://librumreader.com/>)  
 \-Miru=[https://miru.js.org/en/](<https://miru.js.org/en/>)  
 \-Spotube=[https://spotube.krtirtho.dev/](<https://spotube.krtirtho.dev/>)  
 \-Stremio=[https://www.stremio.com/](<https://www.stremio.com/>)  
   
 Recording/Capture  
-\-Flameshot=[https://flameshot.org/](<https://flameshot.org/>)  
+\-Ksnip=[https://github.com/ksnip/ksnip](<https://github.com/ksnip/ksnip>)  
 \-OBS Studio=[https://obsproject.com](<https://obsproject.com>)  
   
 Reverse Engineering  
@@ -76,7 +76,7 @@ System
 \-Fastfetch=[https://github.com/LinusDierheimer/fastfetch](<https://github.com/LinusDierheimer/fastfetch>)  
   
 Task Management/Note-taking  
-\-Anytype=[https://github.com/anyproto/anytype-ts](<https://github.com/anyproto/anytype-ts>)  
+\-Anytype=[https://anytype.io/](<https://anytype.io/>)  
 \-Notesnook=[https://notesnook.com/](<https://notesnook.com/>)  
   
 Text/Code Editing  
