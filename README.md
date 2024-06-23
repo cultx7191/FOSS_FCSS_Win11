@@ -1,4 +1,4 @@
-# FOSS_FCSS_Win11/Tech
+# FOSS_FCSS_Win11
 
 \|FOSS - Free Open Source Software\|  
   
@@ -7,6 +7,7 @@ AI
 \-Upscayl=[https://www.upscayl.org](<https://www.upscayl.org>)  
   
 Cloud Services  
+\-Disroot=[https://disroot.org/en](<https://disroot.org/en>)  
 \-Ente Photos=[https://ente.io/](<https://ente.io/>)  
 \-Filen=[https://filen.io/](<https://filen.io/>)  
 \-Nextcloud=[https://nextcloud.com/](<https://nextcloud.com/>)  
@@ -15,6 +16,8 @@ Convenience
 \-CopyQ=[https://hluk.github.io/CopyQ/](<https://hluk.github.io/CopyQ/>)  
 \-Crow Translate=[https://crow-translate.github.io/](<https://crow-translate.github.io/>)  
 \-Espanso=[https://espanso.org/](<https://espanso.org/>)  
+\-Flow Launcher=[https://www.flowlauncher.com](<https://www.flowlauncher.com>)  
+\-KDE Connect=[https://cdn.kde.org/ci-builds/network/kdeconnect-kde/](<https://cdn.kde.org/ci-builds/network/kdeconnect-kde/>)  
   
 Customization  
 \-Lively Wallpaper=[https://www.rocksdanister.com/lively/](<https://www.rocksdanister.com/lively/>)  
@@ -28,10 +31,18 @@ Documents
 Email/Calendar Client  
 \-Thunderbird=[https://www.thunderbird.net/en-US/](<https://www.thunderbird.net/en-US/>)  
   
-File Archiving/Transfer/Encryption/Sync  
+Emulation/Modding  
+\-Blender=[https://www.blender.org](<https://www.blender.org>)  
+\-Modrinth=[https://modrinth.com/](<https://modrinth.com/>)  
+\-RetroArch=[https://www.retroarch.com/](<https://www.retroarch.com/>)  
+\-UE Explorer=[https://eliotvu.com/portfolio/view/21/ue-explorer](<https://eliotvu.com/portfolio/view/21/ue-explorer>)  
+\-UE Viewer=[https://www.gildor.org/en/projects/umodel](<https://www.gildor.org/en/projects/umodel>)  
+  
+File Archiving/Transfer/Encryption/Management/Sync  
 \-7-Zip=[https://www.7-zip.org](<https://www.7-zip.org>)  
 \-LocalSend=[https://localsend.org/#/](<https://localsend.org/#/>)  
 \-Picocrypt=[https://github.com/HACKERALERT/Picocrypt](<https://github.com/HACKERALERT/Picocrypt>)  
+\-SquirrelDisk=[https://www.squirreldisk.com/](<https://www.squirreldisk.com/>)  
 \-Syncthing Tray=[https://github.com/Martchus/syncthingtray](<https://github.com/Martchus/syncthingtray>)  
   
 File Manager  
@@ -40,9 +51,11 @@ File Manager
 Guitar  
 \-MuseScore=[https://musescore.com/](<https://musescore.com/>)  
 \-TuxGuitar=[https://github.com/helge17/tuxguitar](<https://github.com/helge17/tuxguitar>)  
+\-Ultimate Vocal Remover=[https://ultimatevocalremover.com/](<https://ultimatevocalremover.com/>)  
   
 Internet browsing/Workspace Manager  
 \-LibreWolf=[https://librewolf.net/](<https://librewolf.net/>)  
+\-Tor Browser=[https://www.torproject.org/](<https://www.torproject.org/>)  
 \-ungoogled Chromium=[https://ungoogled-software.github.io/ungoogled-chromium-binaries/](<https://ungoogled-software.github.io/ungoogled-chromium-binaries/>)  
 \-Ferdium=[https://ferdium.org/](<https://ferdium.org/>)  
   
@@ -53,6 +66,7 @@ Optimization
 Privacy/Security  
 \-Bitwarden=[https://bitwarden.com](<https://bitwarden.com>)  
 \-Ente Auth=[https://github.com/ente-io/ente](<https://github.com/ente-io/ente>)  
+\-NetBird=[https://netbird.io/](<https://netbird.io/>)  
 \-Portmaster=[https://safing.io/](<https://safing.io/>)  
 \-ProtonVPN=[https://protonvpn.com/free-vpn/](<https://protonvpn.com/free-vpn/>)  
   
@@ -67,6 +81,10 @@ Recording/Capture
 \-Ksnip=[https://github.com/ksnip/ksnip](<https://github.com/ksnip/ksnip>)  
 \-OBS Studio=[https://obsproject.com](<https://obsproject.com>)  
   
+Remote Software  
+\-HopToDesk=[https://www.hoptodesk.com/](<https://www.hoptodesk.com/>)  
+\-Syncplay=[https://syncplay.pl/](<https://syncplay.pl/>)  
+  
 Reverse Engineering  
 \-ReHex=[https://rehex.solemnwarning.net/](<https://rehex.solemnwarning.net/>)  
   
@@ -77,25 +95,24 @@ System
   
 Task Management/Note-taking  
 \-Anytype=[https://anytype.io/](<https://anytype.io/>)  
+\-AppFlowy=[https://appflowy.io/](<https://appflowy.io/>)  
 \-Notesnook=[https://notesnook.com/](<https://notesnook.com/>)  
   
 Text/Code Editing  
 \-Kate=[https://kate-editor.org/](<https://kate-editor.org/>)  
   
 Tools  
-\-Flow Launcher=[https://www.flowlauncher.com](<https://www.flowlauncher.com>)  
-\-SquirrelDisk=[https://www.squirreldisk.com/](<https://www.squirreldisk.com/>)  
+\-AudioShare=[https://github.com/mkckr0/audio-share](<https://github.com/mkckr0/audio-share>)  
+\-Ventoy=[https://www.ventoy.net](<https://www.ventoy.net>)  
   
 Torrenting  
 \-qBittorrent=[https://www.qbittorrent.org](<https://www.qbittorrent.org>)  
-\-WebTorrent=[https://webtorrent.io/](<https://webtorrent.io/>)  
   
-VG/Modding  
-\-Blender=[https://www.blender.org](<https://www.blender.org>)  
-\-Modrinth=[https://modrinth.com/](<https://modrinth.com/>)  
+VG  
+\-Moonlight=[https://moonlight-stream.org/](<https://moonlight-stream.org/>)  
+\-PCXSense=[https://github.com/Denellyne/PCXSense](<https://github.com/Denellyne/PCXSense>)  
 \-Playnite=[https://playnite.link/](<https://playnite.link/>)  
 \-ReShade=[https://reshade.me](<https://reshade.me>)  
-\-UE Explorer=[https://eliotvu.com/portfolio/view/21/ue-explorer](<https://eliotvu.com/portfolio/view/21/ue-explorer>)  
   
 Video, Audio, Image Viewing  
 \-Audacious=[https://audacious-media-player.org](<https://audacious-media-player.org>)  
@@ -107,6 +124,10 @@ Video, Audio, Image Editing
 \-Kdenlive=[https://kdenlive.org/en/](<https://kdenlive.org/en/>)  
 \-Krita=[https://krita.org/en/](<https://krita.org/en/>)  
 \-LosslessCut=[https://mifi.no/losslesscut/](<https://mifi.no/losslesscut/>)  
+\-Shutter Encoder=[https://www.shutterencoder.com/](<https://www.shutterencoder.com/>)  
+  
+XMMP Client  
+\-Gajim=[https://xmpp.org/software/gajim/](<https://xmpp.org/software/gajim/>)  
   
 \|FCSS - Free Closed Source Software\|  
   
@@ -120,6 +141,7 @@ VG Library/Storefront
 \-Steam=[https://store.steampowered.com/](<https://store.steampowered.com/>)
 
 Instant Messengers  
+\-WhatsApp=[https://www.whatsapp.com/](<https://www.whatsapp.com/>)  
 \-Discord=[https://discord.com](<https://discord.com>)
 
 Streaming  
